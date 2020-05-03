@@ -10,7 +10,7 @@ public class work31 {
     val_print(val);
   }
 
-  // 入力されたものを文字列と結合して出力するメソッド
+  // 入力されたものを整数と結合して出力するメソッド
   static void val_print(int size) {
     System.out.println("入力は" + size + "です");
   }
